@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Outdoor Music Festival",
+    "date": "2024-11-15",
+    "location": "Central Park",
+    "description": "Enjoy a day of live music with top artists in an outdoor setting.",
+    "image": "https://images.unsplash.com/photo-1526948128573-703ee1aeb6fa?fit=crop&w=800&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Tech Innovators Conference",
+    "date": "2024-12-02",
+    "location": "Tech Hub Center",
+    "description": "Discover the latest in technology and meet industry leaders.",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?fit=crop&w=800&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Jazz in the Park",
+    "date": "2024-11-15",
+    "location": "Central Park, New York",
+    "description": "An evening filled with live jazz performances under the stars. Enjoy the music along with food trucks and a lively crowd.",
+    "image": "https://images.unsplash.com/photo-1666111201424-7528d9ac0850?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNlbnRyYWwlMjBwYXJrJTIwbmV3JTIweW9ya3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 4,
+    "name": "Street Art Expo",
+    "date": "2024-12-10",
+    "location": "Downtown Art District, LA",
+    "description": "Experience the best of street art with live graffiti, murals, and installations from renowned and emerging artists.",
+    "image": "https://plus.unsplash.com/premium_photo-1692971249024-f962595a2b9b?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8U3RyZWV0JTIwQXJ0JTIwRXhwbyUyMERvd250b3dufGVufDB8fDB8fHww"
+  },
+  {
+    "id": 5,
+    "name": "Gourmet Food Festival",
+    "date": "2024-11-20",
+    "location": "Pier 39, San Francisco",
+    "description": "Taste dishes from top chefs and local favorites at this celebration of culinary delights, featuring workshops and tastings.",
+    "image": "https://images.unsplash.com/photo-1551218808-94e220e084d2?fit=crop&w=800&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Tech Innovators Summit",
+    "date": "2024-12-02",
+    "location": "Tech Hub Center, Seattle",
+    "description": "Join industry leaders and innovators for talks, demos, and networking on the latest in AI, robotics, and digital transformation.",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?fit=crop&w=800&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Yoga at Sunrise",
+    "date": "2024-11-25",
+    "location": "Miami Beach",
+    "description": "Start your day with an invigorating yoga session by the beach, guided by top instructors and accompanied by live acoustic music.",
+    "image": "https://plus.unsplash.com/premium_photo-1664303298024-ff6263791324?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8WW9nYSUyMGF0JTIwU3VucmlzZSUyME1haW1lJTIwQmVhY2h8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 8,
+    "name": "Outdoor Movie Night",
+    "date": "2024-11-30",
+    "location": "Highland Park, Austin",
+    "description": "Bring your blankets and enjoy a classic film under the stars. Popcorn, food trucks, and refreshments available on site.",
+    "image": "https://images.unsplash.com/photo-1527979809431-ea3d5c0c01c9?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8T3V0ZG9vciUyME1vdmllJTIwbmlnaHR8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 9,
+    "name": "Winter Wonderland Market",
+    "date": "2024-12-05",
+    "location": "Union Square, Boston",
+    "description": "A festive market with holiday gifts, crafts, and seasonal treats. Enjoy hot cocoa and live caroling performances.",
+    "image": "https://plus.unsplash.com/premium_photo-1701454740278-67bfce463cd9?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fFdpbnRlciUyMFdvbmRlcmxhbmQlMjBtYXJrZXR8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 10,
+    "name": "Coding Bootcamp Meetup",
+    "date": "2024-11-28",
+    "location": "Silicon Alley, NYC",
+    "description": "Network with fellow developers and gain insights from industry experts at this tech meetup for beginners and pros alike.",
+    "image": "https://media.istockphoto.com/id/1177052204/photo/young-woman-leader-of-the-project-speaking-to-her-colleagues-standing-near-the-whote-office.webp?a=1&b=1&s=612x612&w=0&k=20&c=0iQsgeuL8WyWkqJUuD2y-sI4aCmDXeYw_6yXceTfjPw="
+  }
+]
