@@ -10,16 +10,13 @@
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
     "spotlite": "file:",
-    "web-vitals": "^2.1.4",
-    "homepage" : "http://gourang001.github.io/Gourang_Chauhan_EventSpotLite"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
